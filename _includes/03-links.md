@@ -1,1 +1,1 @@
-[GitHub](https://github.com/jomustech)
+-Let's connect on: [GitHub](https://github.com/jomustech) [LinkedIn](https://linkedin.com/in/jopapadaki)
