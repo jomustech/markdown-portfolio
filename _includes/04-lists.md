@@ -1,3 +1,3 @@
-- <ul><li>Coffee</li></ul>
-- <ul><li>Electronic Music</li></ul>
-- <ul><li>Computers</li></ul>
+- Coffee
+- Electronic Music
+- Computers
