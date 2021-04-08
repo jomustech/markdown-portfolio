@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+-Soft Skills:
+_Self-motivated_, 
+**Flexible**, 
+**_Lifelong Learner_**.
+
+-Most :heart: languages:
+_Python_, 
+**Ruby**.
