@@ -1,8 +1,9 @@
--Soft Skills:
+- Soft Skills:
 _Self-motivated_, 
 **Flexible**, 
 **_Lifelong Learner_**.
 
--Most :heart: languages:
+- Most favorite :heart: languages (so far):
 _Python_, 
-**Ruby**.
+**Ruby**,
+**_C#_**.
