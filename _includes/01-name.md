@@ -1,2 +1,2 @@
-<b>Jo Papadaki</b>
+**Jo Papadaki**
 #### This is the Portofolio.
